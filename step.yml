@@ -8,7 +8,7 @@
 # - Bitrise CLI guides: http://devcenter.bitrise.io/bitrise-cli/
 
 title: |-
-  Run a testProject job and retrieve the test results
+  RunTestProjectBitrise
 summary: |
   Runs a testProject job
 description: |
