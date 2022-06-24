@@ -13,9 +13,9 @@ summary: |
   Runs a testProject job
 description: |
   Runs a testProject job with the given projectId, jobId, and applicationId and then polls for the execution state of the job. When the job is finished grabs the results.
-website: https://github.com/pranavmehendiratta/bitrise-step-run-a-testproject-job-and-retrieve-the-test-results
-source_code_url: https://github.com/pranavmehendiratta/bitrise-step-run-a-testproject-job-and-retrieve-the-test-results
-support_url: https://github.com/pranavmehendiratta/bitrise-step-run-a-testproject-job-and-retrieve-the-test-results/issues
+website: https://github.com/clari/RunTestProjectBitrise
+source_code_url: https://github.com/clari/RunTestProjectBitrise
+support_url: https://github.com/clari/RunTestProjectBitrise/issues
 host_os_tags:
   - osx-10.10
   - ubuntu-16.04
